@@ -326,7 +326,7 @@ def mainGame():
     
 
     font = pygame.font.SysFont("Calibri", 30,'bold')
-    label = font.render("LUDO GAME \n (vishwaniketan \n group 2)", 1, 'black')
+    label = font.render("LUDO GAME \n -aditya pisal🔥🫦)", 1, 'black')
 
     while (True):
         for event in pygame.event.get():
